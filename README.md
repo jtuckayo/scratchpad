@@ -17,4 +17,9 @@ The code in this repository is provided "as-is" without any warranty. Use it at 
 **💡Projects im currently exploring**
 - Apache Arrow
 - Open Table Formats (Currently starting with Apache Iceberg)
-- LLM Agents 
+- LLM Agents
+
+| Notebook Name | Notebook File | 
+|---------------|---------------|
+| DuckDB & Iceberg : The Future of Lightweight Data Management | [DuckDB & Iceberg : The Future of Lightweight Data Management.ipynb](https://github.com/jtuckayo/scratchpad/blob/main/DuckDB_%26_Iceberg_The_Future_of_Lightweight_Data_Management.ipynb) |
+
