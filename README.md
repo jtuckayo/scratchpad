@@ -22,4 +22,5 @@ The code in this repository is provided "as-is" without any warranty. Use it at 
 | Notebook Name | Notebook File | 
 |---------------|---------------|
 | DuckDB & Iceberg : The Future of Lightweight Data Management | [DuckDB & Iceberg : The Future of Lightweight Data Management.ipynb](https://github.com/jtuckayo/scratchpad/blob/main/DuckDB_%26_Iceberg_The_Future_of_Lightweight_Data_Management/DuckDB_%26_Iceberg_The_Future_of_Lightweight_Data_Management.ipynb) |
+|Gradio Audio To Text App | [Gradio_Audio_To_Text_App/Gradio_Audio_To_Text_App.ipynb](https://github.com/jtuckayo/scratchpad/blob/main/Gradio_Audio_To_Text_App/Gradio_Audio_To_Text_App.ipynb)
 
